@@ -85,16 +85,13 @@ The system runs continuously, updating sensor data every 3 seconds to Firebase.
 
 ## System Flowchart
 Here’s the flowchart of the program’s operation:
-
+![Circuit Diagram](https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/blob/main/gps_air_quality_monitoring_flowchart_final.png?raw=true) <!-- Replace with your actual circuit diagram image link -->
 ## Circuit Diagram
 To create the circuit, connect the components as follows:
-
-
-### LED Indicator:
-- Anode (long pin) to GPIO 12 on the ESP32
-- Cathode (short pin) to GND (with a suitable resistor in series)
-
 ![Circuit Diagram](https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/blob/main/gps_air_quality_monitoring_flowchart_final.png?raw=true) <!-- Replace with your actual circuit diagram image link -->
+
+
+
 
 ## Installation and Setup
 1. Clone the repository to your local machine:
