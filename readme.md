@@ -93,21 +93,6 @@ Here’s the flowchart of the program’s operation:
 ## Circuit Diagram
 To create the circuit, connect the components as follows:
 
-### DHT22 Sensor:
-- VCC pin to 3.3V on the ESP32
-- Data pin to GPIO 23 on the ESP32 (with a 10K pull-up resistor between the data pin and VCC)
-- GND pin to GND on the ESP32
-
-### MQ-135 Sensor:
-- VCC pin to 5V on the ESP32
-- Analog output (A0) pin to GPIO 35 on the ESP32
-- GND pin to GND on the ESP32
-
-### GPS Module:
-- VCC pin to 3.3V on the ESP32
-- TX pin to GPIO 16 on the ESP32 (RX)
-- RX pin to GPIO 17 on the ESP32 (TX)
-- GND pin to GND on the ESP32
 
 ### LED Indicator:
 - Anode (long pin) to GPIO 12 on the ESP32
