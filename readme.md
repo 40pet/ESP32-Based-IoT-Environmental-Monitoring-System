@@ -103,6 +103,5 @@ To create the circuit, connect the components as follows:
 ## Installation and Setup
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/tree/main
 
