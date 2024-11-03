@@ -94,7 +94,7 @@ To create the circuit, connect the components as follows:
 - Anode (long pin) to GPIO 12 on the ESP32
 - Cathode (short pin) to GND (with a suitable resistor in series)
 
-![Circuit Diagram](link_to_your_circuit_diagram_image) <!-- Replace with your actual circuit diagram image link -->
+![Circuit Diagram](https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/blob/main/gps_air_quality_monitoring_flowchart_final.png?raw=true) <!-- Replace with your actual circuit diagram image link -->
 
 ## Installation and Setup
 1. Clone the repository to your local machine:
