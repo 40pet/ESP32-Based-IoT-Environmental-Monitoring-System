@@ -28,6 +28,10 @@ The collected data can be used for applications like air quality monitoring, wea
 
 You can access the web interface for the environmental monitoring system [here](https://myiot-a57f5.web.app/)./
 
+<div style="text-align: left;">
+    <img src="https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/blob/main/webpage.jpeg?raw=true" alt="Webpage" width="500"/>
+</div>
+
 ## How It Works
 
 1. **Wi-Fi Connection**: When the system starts, the ESP32 attempts to connect to a Wi-Fi network using the specified SSID and password. This connection enables data transmission to Firebase.
@@ -100,6 +104,12 @@ To create the circuit, connect the components as follows:
 <div style="text-align: left;">
     <img src="https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/blob/main/ckt%20diagram.jpg?raw=true" alt="Circuit Diagram" width="400"/>
 </div>
+
+## Prototype
+<div style="text-align: left;">
+    <img src="https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/blob/main/design.jpeg?raw=true" alt="Prototype" width="400"/>
+</div>
+
 
 ## Download Code 
 
