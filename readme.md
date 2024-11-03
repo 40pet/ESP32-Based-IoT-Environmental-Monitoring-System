@@ -85,13 +85,13 @@ The system runs continuously, updating sensor data every 3 seconds to Firebase.
 
 ## System Flowchart
 Here’s the flowchart of the program’s operation:
-![Circuit Diagram](https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/blob/main/gps_air_quality_monitoring_flowchart_final.png?raw=true) <!-- Replace with your actual circuit diagram image link -->
+![Circuit Diagram](https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/blob/main/flowchart.png?raw=true) <!-- Replace with your actual circuit diagram image link -->
 ## Circuit Diagram
 To create the circuit, connect the components as follows:
-![Circuit Diagram](https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/blob/main/gps_air_quality_monitoring_flowchart_final.png?raw=true) <!-- Replace with your actual circuit diagram image link -->
+![Circuit Diagram](https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/blob/main/ckt%20diagram.jpg?raw=true) <!-- Replace with your actual circuit diagram image link -->
 
-
-
+## Code 
+![Circuit Diagram](https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/blob/main/ckt%20diagram.jpg?raw=true) <!-- Replace with your actual circuit diagram image link -->
 
 ## Installation and Setup
 1. Clone the repository to your local machine:
