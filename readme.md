@@ -90,16 +90,34 @@ The system runs continuously, updating sensor data every 3 seconds to Firebase.
 ## System Flowchart
 Here’s the flowchart of the program’s operation:
 
-```plaintext
-1. Start System
-2. Initialize Components
-   - Connect to Wi-Fi
-   - Initialize GPS and sensors
-3. Acquire GPS Data
-   - Attempt to acquire valid GPS location
-   - Blink LED until valid GPS data is obtained
-4. Collect Sensor Data
-   - Read MQ-135 sensor for air quality (AQI)
-   - Read DHT22 for temperature and humidity
-5. Send Data to Firebase
-6. Repeat Steps 3-5 every 3 seconds
+## Circuit Diagram
+To create the circuit, connect the components as follows:
+
+### DHT22 Sensor:
+- VCC pin to 3.3V on the ESP32
+- Data pin to GPIO 23 on the ESP32 (with a 10K pull-up resistor between the data pin and VCC)
+- GND pin to GND on the ESP32
+
+### MQ-135 Sensor:
+- VCC pin to 5V on the ESP32
+- Analog output (A0) pin to GPIO 35 on the ESP32
+- GND pin to GND on the ESP32
+
+### GPS Module:
+- VCC pin to 3.3V on the ESP32
+- TX pin to GPIO 16 on the ESP32 (RX)
+- RX pin to GPIO 17 on the ESP32 (TX)
+- GND pin to GND on the ESP32
+
+### LED Indicator:
+- Anode (long pin) to GPIO 12 on the ESP32
+- Cathode (short pin) to GND (with a suitable resistor in series)
+
+![Circuit Diagram](link_to_your_circuit_diagram_image) <!-- Replace with your actual circuit diagram image link -->
+
+## Installation and Setup
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
+
