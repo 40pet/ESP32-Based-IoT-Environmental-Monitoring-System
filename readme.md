@@ -13,6 +13,7 @@ This project is a real-time environmental monitoring system that uses an ESP32 m
 - [Pin Connections](#pin-connections)
 - [System Flowchart](#system-flowchart)
 - [Circuit Diagram](#circuit-diagram)
+- [Prototype](#Prototype)
 - [Installation and Setup](#installation-and-setup)
 
 ## Project Overview
