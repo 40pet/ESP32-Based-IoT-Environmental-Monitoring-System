@@ -12,10 +12,6 @@ This project is a real-time environmental monitoring system that uses an ESP32 m
 - [System Flowchart](#system-flowchart)
 - [Circuit Diagram](#circuit-diagram)
 - [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 The ESP32-based environmental monitoring system uses sensors and modules to gather environmental data. This data is sent to Firebase for real-time tracking and can be accessed via a web interface. The key sensors and modules include:
