@@ -90,8 +90,20 @@ Here’s the flowchart of the program’s operation:
 To create the circuit, connect the components as follows:
 ![Circuit Diagram](https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/blob/main/ckt%20diagram.jpg?raw=true) <!-- Replace with your actual circuit diagram image link -->
 
-## Code 
-![Circuit Diagram](https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/blob/main/ckt%20diagram.jpg?raw=true) <!-- Replace with your actual circuit diagram image link -->
+## Download Code 
+
+The code for this project is available in the Arduino format. You can download the main Arduino sketch by clicking the link below:
+
+- [Download Code (main.ino)](https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/blob/main/main.ino)
+
+To download the entire project, you can also download the repository as a ZIP file:
+
+- [Download Repository](https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/archive/refs/heads/main.zip)
+
+Simply extract the downloaded ZIP file, and you will find the Arduino sketch (`main.ino`) and all related files inside the folder.
+
+### Note
+Make sure to open the `main.ino` file in the Arduino IDE to compile and upload it to your ESP32.
 
 ## Installation and Setup
 1. Clone the repository to your local machine:
