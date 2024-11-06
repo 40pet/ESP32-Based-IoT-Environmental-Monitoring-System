@@ -30,7 +30,7 @@ The collected data can be used for applications like air quality monitoring, wea
 You can access the web interface for the environmental monitoring system [here](https://myiot-a57f5.web.app/)./
 
 <div style="text-align: left;">
-    <img src="https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/blob/main/webpage.jpeg?raw=true" alt="Webpage" width="500"/>
+    <img src="https://github.com/40pet/ESP32-Based-IoT-Environmental-Monitoring-System/blob/main/webpage.jpeg?raw=true" alt="Webpage" width="700"/>
 </div>
 
 ## How It Works
